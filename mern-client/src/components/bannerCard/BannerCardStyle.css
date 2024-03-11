@@ -1,0 +1,39 @@
+.banner .swiper {
+	width: 240px;
+	height: 320px;
+}
+
+.banner .swiper-slide {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 18px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.banner .swiper-slide:nth-child(1n) {
+	background-image: url("../../assets/banner-images/74681.jpg");
+}
+
+
+.banner .swiper-slide:nth-child(2n) {
+
+	background-image: url("../../assets/banner-images/12a613ff0219d32438937846aa475a52--old-books-romans.jpg");
+}
+
+.banner .swiper-slide:nth-child(3n) {
+	background-image: url("../../assets/banner-images/Art-Journal-Books-PIN2-200x300.jpg");
+}
+
+
+
+.banner .swiper-slide:nth-child(4n) {
+	background-image: url("../../assets/banner-images/1.jfif");
+}
+
+.banner .swiper-slide:nth-child(5n) {
+
+	background-image: url("../../assets/banner-images/image.png");
+}
